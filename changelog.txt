@@ -1,4 +1,0 @@
-Version 1.3:
- - Added NiftyCarts Mod 
- - Added SpiceOfFabric Mod
- - Added InventoryProfilesNext Mod

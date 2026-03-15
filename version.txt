@@ -1,7 +1,1 @@
-{
-  "version": "2.0"
-  "files": [
-    "mods/",
-    "config/"
-  ]
-}
+1.3

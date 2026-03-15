@@ -1,4 +1,5 @@
-Version 1.4:
+Version 1.45:
  - Added NiftyCarts Mod 
  - Added SpiceOfLife Mod
  - Added InventoryProfilesNext Mod
+ - Added AppleSkin Mod

@@ -3,4 +3,4 @@ Version 1.9.5:
  - Added LambDynamicLights Mod
  - Added ImmersiveMelodies Mod
  - Added SkinChanger Mod
- - Added NotEnoughCrashes
+ - Added NotEnoughCrashes Mod

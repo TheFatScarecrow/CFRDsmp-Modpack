@@ -1,5 +1,6 @@
-Version 1.45:
- - Added NiftyCarts Mod 
- - Added SpiceOfLife Mod
- - Added InventoryProfilesNext Mod
- - Added AppleSkin Mod
+Version 1.9.5:
+ - Added CreateBetterFps Mod 
+ - Added LambDynamicLights Mod
+ - Added ImmersiveMelodies Mod
+ - Added SkinChanger Mod
+ - Added NotEnoughCrashes

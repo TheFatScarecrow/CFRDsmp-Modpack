@@ -1,6 +1,4 @@
-Version 1.9.5:
- - Added CreateBetterFps Mod 
- - Added LambDynamicLights Mod
- - Added ImmersiveMelodies Mod
- - Added SkinChanger Mod
- - Added NotEnoughCrashes Mod
+Version 1.11.6:
+ - Added Player Locator Plus Mod 
+ - Added You're In Grave Danger Mod
+ - Added New Splash Text

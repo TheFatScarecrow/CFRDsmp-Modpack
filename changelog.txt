@@ -1,4 +1,4 @@
 Version 1.11.6:
- - Added Player Locator Plus Mod 
- - Added You're In Grave Danger Mod
- - Added New Splash Text
+ - Added Create: Power Grid Mod
+ - Added Create: Railway Navigator Mod
+ - Added DragonLib
